@@ -1,0 +1,22 @@
+{
+  "name": "dapp-gofuckingdoeth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "solc": "^0.8.9",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}
